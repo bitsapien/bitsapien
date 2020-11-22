@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   - Javascript
   - Clojure
   - Shell
+- 📝 Text editors I use
+  - [Neovim](https://github.com/bitsapien/dotfiles/blob/master/vim/.vimrc)
+  - [Doom Emacs](https://github.com/bitsapien/dotfiles/tree/master/doom-emacs/.doom.d)
 - 👯 I’m looking to collaborate on anything that 
     - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
     - Improves the state of diversity and inclusion in the tech industry or in general.
