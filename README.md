@@ -34,10 +34,14 @@ Here are some ideas to get you started:
     - Product thinking
     - Data structures & Algorithms
     - Mathematics & Functional Programming
-- ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
+- ❤️ Topics/Things I absolutely love
+  - 👨🏾‍💻 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
+  - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
+  - λ Talking about functional programming and building simple systems.
+  - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
+- 🕑 I maintain a [/now](https://blog.bitsapien.dev/now/) page!
 - 📫 Feel free to message me on 
   - [🐦 Twitter](https://twitter.com/bitsapien_logs) 
   - [✉️ bitsapien+github@gmail.com](mailto:bitsapien+github@gmail.com).
 - 😻 Also, my [cats](https://twitter.com/bitsapien_logs/status/1330397097854689287).
-- I maintain a [/now](https://blog.bitsapien.dev/now/) page!
 - 🏳️‍🌈 Pronouns: they / he
