@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   - [🐦 Twitter](https://twitter.com/bitsapien_logs) 
   - [✉️ bitsapien+github@gmail.com](mailto:bitsapien+github@gmail.com).
 - 😻 Also, my [cats](https://twitter.com/bitsapien_logs/status/1330397097854689287).
-- 😄 Pronouns: they / he
 - I maintain a [/now](https://blog.bitsapien.dev/now/) page!
+- 🏳️‍🌈 Pronouns: they / he
