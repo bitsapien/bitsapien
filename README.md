@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
   - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
   - λ Talking about functional programming and building simple systems.
-  - <img style="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" height="25">  Help people on [stackoverflow](https://stackoverflow.com/users/755421/bitsapien).
+  - <img style="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" height="15">  Help people on [stackoverflow](https://stackoverflow.com/users/755421/bitsapien).
   - ✍🏽 [Blogging](https://blog.bitsapien.dev/posts) and [micro-blogging](https://twitter.com/bitsapien_logs).
 - 🤔 I’m looking for help with resources / mentorship around
     - Product thinking
