@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
   - λ Talking about functional programming and building simple systems.
   - ✍🏽 [Blogging](https://blog.bitsapien.dev/posts) and [micro-blogging](https://twitter.com/bitsapien_logs).
-- 🤔 I’m looking for help 
+- 🤔 I’m looking for help with resources / mentorship around
     - Product thinking
     - Data structures & Algorithms
     - Mathematics & Functional Programming
