@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png">
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/755421/bitsapien)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='20'>](https://gitlab.com/bitsapien)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/bitsapien_logs) 
 
 - 🔭 I’m currently working with [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. The roles I take up involve
   - Helping clients deliver software better and faster.
@@ -46,6 +44,7 @@ Here are some ideas to get you started:
   - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
   - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
   - λ Talking about functional programming and building simple systems.
+  - <img style="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" height="25">  Help people on [stackoverflow](https://stackoverflow.com/users/755421/bitsapien).
   - ✍🏽 [Blogging](https://blog.bitsapien.dev/posts) and [micro-blogging](https://twitter.com/bitsapien_logs).
 - 🤔 I’m looking for help with resources / mentorship around
     - Product thinking
