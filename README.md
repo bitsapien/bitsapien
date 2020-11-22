@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
     - Functional programming _via LISP like languages (eg: Clojure)_
     - Web Components
-- 👯 I’m looking to collaborate on anything that improves the lives of developers, from figuring out the challenges to implementing solutions in code.
+- 👯 I’m looking to collaborate on anything that 
+    - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
+    - Activities that improves the state of diversity and inclusion in the tech industry or in general.
 - 🤔 I’m looking for help with product thinking.
 - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
 - 📫 Feel free to message me on 
