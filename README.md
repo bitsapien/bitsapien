@@ -27,18 +27,24 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
     - Functional programming _via LISP like languages (eg: Clojure)_
     - Web Components
+- 👨🏾‍💻 Languages I love to code in
+  - Ruby
+  - Elixir
+  - Python
+  - Javascript
+  - Clojure
 - 👯 I’m looking to collaborate on anything that 
     - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
     - Activities that improves the state of diversity and inclusion in the tech industry or in general.
+- ❤️ Topics/Things I absolutely love
+  - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
+  - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
+  - λ Talking about functional programming and building simple systems.
+  - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
 - 🤔 I’m looking for help 
     - Product thinking
     - Data structures & Algorithms
     - Mathematics & Functional Programming
-- ❤️ Topics/Things I absolutely love
-  - 👨🏾‍💻 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
-  - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
-  - λ Talking about functional programming and building simple systems.
-  - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
 - 🕑 I maintain a [/now](https://blog.bitsapien.dev/now/) page!
 - 📫 Feel free to message me on 
   - [🐦 Twitter](https://twitter.com/bitsapien_logs) 
