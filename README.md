@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
   - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
   - λ Talking about functional programming and building simple systems.
-  - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
+  - ✍🏽 [Blogging](https://blog.bitsapien.dev/posts) and [micro-blogging](https://twitter.com/bitsapien_logs).
 - 🤔 I’m looking for help 
     - Product thinking
     - Data structures & Algorithms
