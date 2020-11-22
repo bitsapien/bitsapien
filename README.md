@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **bitsapien/bitsapien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png">
+
+- 🔭 I’m currently working with [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. I help clients deliver software better and faster.
+- 🌱 I’m currently learning functional programming via LISP like languages (eg: Clojure) and Web Components on the frontend.
+- 👯 I’m looking to collaborate on anything that improves the lives of developers, from figuring out the challenges to implementing solutions in code.
+- 🤔 I’m looking for help with product thinking.
+- ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
+- 📫 Feel free to message me on [🐦 Twitter](https://twitter.com/bitsapien_logs) or [✉️ bitsapien+github@gmail.com](mailto:bitsapien+github@gmail.com).
+- 😻 Also, my [cats](https://twitter.com/bitsapien_logs/status/1330397097854689287).
+- 😄 Pronouns: they / he
