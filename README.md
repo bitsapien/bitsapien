@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that 
     - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
     - Activities that improves the state of diversity and inclusion in the tech industry or in general.
-- 🤔 I’m looking for help with product thinking.
+- 🤔 I’m looking for help 
+    - Product thinking
+    - Data structures & Algorithms
+    - Mathematics & Functional Programming
 - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
 - 📫 Feel free to message me on 
   - [🐦 Twitter](https://twitter.com/bitsapien_logs) 
