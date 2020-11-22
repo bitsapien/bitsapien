@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <!-- Through navigating organisational structures and getting things done, involving and driving every stage of delivery from ideation to solution to tracking success metrics. -->
   - Writing and designing code/systems that scale.
     <!-- monolith to microservice, micro frontends -->
-  - Enabling developers with the right tools to grow.
+  - Enabling developers with the right tools to grow and be more productive.
     <!-- Tech Tuesdays, Github Topics, Bob CI, goto -->
   - Making the tech industry more inclusive.
     <!-- Random 1 on 1s, Prajna, anti-discrimination -->
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   - [Neovim](https://github.com/bitsapien/dotfiles/blob/master/vim/.vimrc)
   - [Doom Emacs](https://github.com/bitsapien/dotfiles/tree/master/doom-emacs/.doom.d)
 - 👯 I’m looking to collaborate on anything that 
-    - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
+    - Improves the lives of developers and improves their productivity. _From figuring out the challenges to implementing solutions in code_
     - Improves the state of diversity and inclusion in the tech industry or in general.
 - ❤️ Topics/Things I absolutely love
   - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
