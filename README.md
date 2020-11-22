@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   - Shell
 - 👯 I’m looking to collaborate on anything that 
     - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
-    - Activities that improves the state of diversity and inclusion in the tech industry or in general.
+    - Improves the state of diversity and inclusion in the tech industry or in general.
 - ❤️ Topics/Things I absolutely love
   - 🪓 Shell scripting and building CLI tools. <!-- goto, blog scripts, org-mode -->
   - 😎 Building extremely intuitive interfaces to software tools. <!-- goto, blog scripts, org-mode -->
