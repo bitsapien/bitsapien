@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png">
 
 - 🔭 I’m currently working with [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. I help clients deliver software better and faster.
-- 🌱 I’m currently learning functional programming via LISP like languages (eg: Clojure) and Web Components on the frontend.
+- 🌱 I’m currently learning **functional programming** via LISP like languages (eg: Clojure) and **Web Components**.
 - 👯 I’m looking to collaborate on anything that improves the lives of developers, from figuring out the challenges to implementing solutions in code.
 - 🤔 I’m looking for help with product thinking.
 - ✍🏽 I [blog](https://blog.bitsapien.dev/posts) and [micro-blog](https://twitter.com/bitsapien_logs).
