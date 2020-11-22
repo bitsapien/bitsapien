@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   - Python
   - Javascript
   - Clojure
+  - Shell
 - 👯 I’m looking to collaborate on anything that 
     - Improves the lives of developers. _From figuring out the challenges to implementing solutions in code_
     - Activities that improves the state of diversity and inclusion in the tech industry or in general.
