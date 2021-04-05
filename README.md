@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png">
 
-- 🔭 I’m currently working with [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. The roles I take up involve
+- 🔭 I’m currently work at [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. The roles I take up involve
   - Helping clients deliver software better and faster.
     <!-- Through navigating organisational structures and getting things done, involving and driving every stage of delivery from ideation to solution to tracking success metrics. -->
   - Writing and designing code/systems that scale.
