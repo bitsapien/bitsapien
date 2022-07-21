@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 -->
 <!-- <img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png"> -->
 
-- 🔭 I currently work at [ThoughtWorks](https://www.thoughtworks.com) as one of their Senior Software Consultants. The roles I take up involve
-  - Helping clients deliver software better and faster.
+- 🔭 I currently work at [Meta](https://meta.com) as one of their Business Engineers in their MetaFinTech org. The role I take up involves
+  - Helping users/businesses on Facebook, Instagram, Whatsapp to send or recieve money among themselves.
+  - Helping partners scale their payment products to the millions of users globally across our family of apps.
     <!-- Through navigating organisational structures and getting things done, involving and driving every stage of delivery from ideation to solution to tracking success metrics. -->
   - Writing and designing code/systems that scale.
     <!-- monolith to microservice, micro frontends -->
-  - Enabling developers with the right tools to grow and be more productive.
+  <!-- Enabling developers with the right tools to grow and be more productive. -->
     <!-- Tech Tuesdays, Github Topics, Bob CI, goto -->
   - Making the tech industry more inclusive.
     <!-- Random 1 on 1s, Prajna, anti-discrimination -->
-- 🌱 I’m currently learning 
-    - Functional programming _via LISP like languages (eg: Clojure)_
-    - Web Components
+- 🌱 I’m currently exploring 
+  - London
+  - Street art
+  - HHVM (Hack's runtime)
+    <!-- Functional programming _via LISP like languages (eg: Clojure)_ -->
+    <!-- Web Components -->
 - 👨🏾‍💻 Languages I love to code in
   - Ruby
   - Elixir
@@ -55,4 +59,4 @@ Here are some ideas to get you started:
   - [🐦 Twitter](https://twitter.com/bitsapien_logs) 
   - [✉️ bitsapien+github@gmail.com](mailto:bitsapien+github@gmail.com).
 - 😻 Also, my [cats](https://twitter.com/bitsapien_logs/status/1330397097854689287).
-- 🏳️‍🌈 Pronouns **they / he**
+- 🏳️‍🌈 Pronouns **they / them**
