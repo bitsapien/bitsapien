@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img style="inline-block" src="https://blog.bitsapien.dev/img/github-cover.png"> -->
 
-- 🔭 I currently work at [Meta](https://meta.com) as one of their Business Engineers in their MetaFinTech org. The role I take up involves
+- 🔭 I currently work at [Meta](https://meta.com) as a Business Engineers in their MetaFinTech org. The role I take up involves
   - Helping users/businesses on Facebook, Instagram, Whatsapp to send or recieve money among themselves.
   - Helping partners scale their payment products to the millions of users globally across our family of apps.
     <!-- Through navigating organisational structures and getting things done, involving and driving every stage of delivery from ideation to solution to tracking success metrics. -->
