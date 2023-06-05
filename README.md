@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <!-- Through navigating organisational structures and getting things done, involving and driving every stage of delivery from ideation to solution to tracking success metrics. -->
   - Writing and designing code/systems that scale.
     <!-- monolith to microservice, micro frontends -->
-  - Enabling developers with the right tools to grow and be more productive.
+    <!--   - Enabling developers with the right tools to grow and be more productive. -->
     <!-- Tech Tuesdays, Github Topics, Bob CI, goto -->
   - Making the tech industry more inclusive.
     <!-- Random 1 on 1s, Prajna, anti-discrimination -->
