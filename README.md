@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <!-- Tech Tuesdays, Github Topics, Bob CI, goto -->
   - Making the tech industry more inclusive.
     <!-- Random 1 on 1s, Prajna, anti-discrimination -->
-- 🌱 I’m currently exploring 
-  - London
-<!--   - Street art -->
-<!--   - HHVM (Hack's runtime) -->
+    <!-- - 🌱 I’m currently exploring  -->
+    <!--   - London -->
+    <!--   - Street art -->
+    <!--   - HHVM (Hack's runtime) -->
     <!-- Functional programming _via LISP like languages (eg: Clojure)_ -->
     <!-- Web Components -->
 - 👨🏾‍💻 Languages I love to code in
